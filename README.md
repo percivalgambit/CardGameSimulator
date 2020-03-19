@@ -1,0 +1,2 @@
+# CardGameSimulator
+A MTG simulator
